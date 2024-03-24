@@ -1,3 +1,4 @@
-source "https://rubygems.org"
+source "https://gems.ruby-china.com"
 
-gem "jekyll"
+gem "github-pages", group: :jekyll_plugins
+gem "jekyll-include-cache", group: :jekyll_plugins
